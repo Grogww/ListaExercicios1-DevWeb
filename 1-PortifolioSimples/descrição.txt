@@ -1,0 +1,8 @@
+Objetivo: Criar uma página de apresentação pessoal usando HTML e CSS.
+
+- Cabeçalho com seu nome e links de navegação (display: flex para alinhar).
+- Seção de "Sobre mim" usando <div> (block) e pequenas tags <span> (inline) para destacar palavras.
+- Usar unidades rem para fontes e tamanhos, e px apenas para bordas.
+- Espaçar conteúdo com margin e padding.
+- Aplicar box-sizing: border-box globalmente.
+- Extra: Criar um rodapé centralizado.
