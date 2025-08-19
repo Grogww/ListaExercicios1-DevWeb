@@ -1,0 +1,8 @@
+Objetivo: Simular uma página de loja online.
+
+- Cabeçalho com logo, barra de busca e menu (flexbox).
+- Área principal com cards de produto (display: block para cada card, mas partes internas inline).
+- Cada card deve ter imagem, nome e preço, usando em para fontes.
+- Espaçamento interno e externo ajustados com margin/padding.
+- Garantir que todos os cards fiquem com mesma largura usando box-sizing: border-box.
+- Extra: Ao passar o mouse, o card aumenta levemente (transform: scale(1.05)).
